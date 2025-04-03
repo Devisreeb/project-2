@@ -24,7 +24,3 @@ This project analyzes how climate change indicators affect food security across 
 ## 🔍 Key Insight
 
 Countries with better affordability and climate adaptation practices showed significantly higher food security scores, highlighting the importance of economic access and sustainable policy planning.
-
----
-
-📬 For any discussions or queries please contact: **durgaprasadbukka7@gmail.com**
