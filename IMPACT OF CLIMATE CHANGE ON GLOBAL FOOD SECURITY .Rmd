@@ -1,20 +1,20 @@
 ---
 title: "IMPACT OF CLIMATE CHANGE ON GLOBAL FOOD SECURITY"
-author: "Durga Prasad Bukka"
-date: "2024-04-17"
+author: "B DEVI SREE"
+date: "2023-01-17"
 output: word_document
 ---
   
 ```{r}
 # Read the dataset
-data <- read.csv("C:/Users/bdurg/Downloads/R Impacts of climate change on food security/Global Food Security Index 2019 final.csv")
+data <- read.csv("C:/Users/bDEVI/Downloads/R Impacts of climate change on food security/Global Food Security Index 2019 final.csv")
 # Check column names of data dataset
 print(colnames(data))
 ```
 
 ```{r}
 # Read the dataset
-data <- read.csv("C:/Users/bdurg/Downloads/R Impacts of climate change on food security/Global Food Security Index 2019 final.csv")
+data <- read.csv("C:/Users/bDEVI/Downloads/R Impacts of climate change on food security/Global Food Security Index 2019 final.csv")
 
 # Check for missing values
 print(colSums(is.na(data)))
@@ -41,7 +41,7 @@ str(data)
 PEARSON CORRELATION
 ```{r}
 # Check the structure of the dataset
-data <- read.csv("C:/Users/bdurg/Downloads/R Impacts of climate change on food security/Global Food Security Index 2019 final.csv")
+data <- read.csv("C:/Users/bDEVI/Downloads/R Impacts of climate change on food security/Global Food Security Index 2019 final.csv")
 
 str(data)
 
@@ -57,7 +57,7 @@ print(correlation_results)
 LINEAR REGRESSION
 
 ```{r}
-data <- read.csv("C:/Users/bdurg/Downloads/R Impacts of climate change on food security/Global Food Security Index 2019 final.csv")
+data <- read.csv("C:/Users/bDEVI/Downloads/R Impacts of climate change on food security/Global Food Security Index 2019 final.csv")
 
 
 # Check the structure of the dataset
